@@ -16,7 +16,7 @@ Android                            | No |
 -----------------------------------------------
 DO NOT RUN THIS BASH SCRIPT AGAIN AFTER RUNNING IT ONCE!
 
-In order to run the server after shutting it down after running the install script, go to your teminal on linux and type the following commands,
+In order to run the server after shutting it down after running the install script, go to your terminal on linux and type the following commands,
 
 cd ~/Documents
 
