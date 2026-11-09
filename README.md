@@ -4,7 +4,7 @@ This script will download and install Minecraft Forge version 26.3
 
 
 
-IMPORTENT INFORMATION
+IMPORTANT INFORMATION
 -----------------------------------------------
 Operating system support          | yes/no |
 -----------------------------------------------
