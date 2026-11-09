@@ -19,5 +19,7 @@ DO NOT RUN THIS BASH SCRIPT AGAIN AFTER RUNNING IT ONCE!
 In order to run the server after shuting it down after running the install script, go to your teminal on linux and type the following commands,
 
 cd ~/Documents
+
 cd /Minecraft-Server
+
 bash ./run.sh
